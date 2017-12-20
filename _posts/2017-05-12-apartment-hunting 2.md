@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Apartment Hunting in Queen Anne"
----
-Yesterday I took the bus to Queen Anne, Seattle Center and home (from South Lake Union).  In Queen Anne, I looked at an apartment in a 1950s era building with a strong “mid-century modern” flavor. The apartment was not right - wrong time, low floor, no balcony, etc, but I did like the feeling of the building. It seems that the rental price of apartments here is partly determined by how new they are and on presence of contemporary amenities. Since the “older” buildings don’t have the gyms, green roofs with BBQs, etc. some of them seem to be priced more reasonably.  In this building, a balcony with a view would make up for the missing out on the screening/video-game room.  The manager was a middle-aged guy who seemed to like me, so hoping that something turns up next month.
-
-Walked down the hill to Seattle Center - the prime monument to mid-century modern in central Seattle. My “office” at the KEXP gathering space was crowded.  Corporate people, it turned out representatives of the arena management company, AEG were prepping for an open house to present a plan to rebuild the Seattle Coliseum next door in order to attract an NHL and NBA team. Seattleites love their sports, but are also very sensitive to not providing corporate welfare, worsening an already difficult traffic situation and (perceived) runaway growth. This is one of two main plans to build an arena: will be interesting to see where it goes.
-
-After drinks in South Lake Union with a friend-of-a-friend, I took a bus home to Ballard at 9pm.  Public transit definitely not as much fun at night here - fewer buses, stops are exposed on big avenues, etc. Have to get myself more psychologically prepared to take on Uber or a Car2Go home from downtown evening appointments.
