@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jason's Development Blog!"
+title:  "Welcome to Jason's  Blog!"
 ---
-This is the first post of Jason's technical blog.
+This is the first post of Jason's ~~technical~~ blog.
 
 We'll be documenting a number of things here:
 - I'll be learning how to create, manage and deploy a static website using the Jekyll framework. Initially, this site is going to live on my own development laptop, but in fairly short order the plan is to post it to Amazon Web Services in order to start getting hands-on experience with cloud deployments.

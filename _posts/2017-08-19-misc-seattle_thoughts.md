@@ -2,7 +2,7 @@
 layout: post
 title:  "Misc Seattle Thoughts"
 ---
-BTW - WSJ app for both iPhone and iPad recently improved greatly.  As good an experience as NYT app and almost as good as the actual paper.
+BTW - WSJ app for both iPhone and iPad recently improved greatly.  It is good an experience as NYT app and almost as good as the actual paper.
 
 I have started reading the Seattle Times online. Not a very good paper overall, but the coverage of state and regional issues is pretty important to me now.
 
