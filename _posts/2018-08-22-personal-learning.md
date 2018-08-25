@@ -5,6 +5,7 @@ title:  "Personal Learning Paths"
 Since completing the Udacity data analytics curriculum, I have been brainstorming next steps in continuing education.  Given my current interests, that means learning more math/statistics, computer technologies or using existing skills to build projects and learn more about different subject areas. Here's the list I have compiled so far:
 
 - Baseball statistics with R (book)
+- Using government open data technologies (Socrata, etc.) to investigate something
 - Machine Learning (book - recommended by Misha)
 - Data Camp (online learning resource for Python, R and SQL)
 - Udacity (further learning in Machine Learning or Data Science)

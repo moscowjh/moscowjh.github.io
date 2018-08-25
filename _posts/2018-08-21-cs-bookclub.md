@@ -28,8 +28,10 @@ Kim Zetter, *Countdown to Zero Day: Stuxnet and the Launch of the World's First 
 Ernest Cline, *Ready Player One*
 ### Data (Big and Otherwise)
 Michael Lewis, *Moneyball*
+
 Nate Silver, *The Signal & the Noise*
 ### Networks (Social and Otherwise)
 Brian Dear, *Friendly Orange Glow*
+
 Tim Wu, *The Attention Merchants*
 ### Privacy
