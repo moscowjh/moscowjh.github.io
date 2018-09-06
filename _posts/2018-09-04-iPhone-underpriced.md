@@ -4,7 +4,7 @@ title:  "iPhone is Enormously Underpriced"
 ---
 Warren Buffett said last week during an interview with CNBC, “the iPhone is enormously underpriced...in terms of its utility to people." This statement is absolutely correct and is worth unpacking.
 
-First, it's worth noting that the statement is slightly contrarian. In 2017, when the new iPhone X was announced, the most common talking point in prodcut reviews was whether it was worth $1000 as opposed to the $700 Apple planned to charge for lesser or older phones in its line.  
+First, it's worth noting that the statement is slightly contrarian. In 2017, when the new iPhone X was announced, the most common critical question in product reviews was whether it was worth $1000 as opposed to the $700 Apple planned to charge for lesser or older phones in its line.  
 
 Buffett is absolutely right to reframe the question. It's not really whether a device is more expensive than other similar devices, but whether it helps the user to accomplish things that she finds valuable.  And further, whether competitors do that same thing equally well and for what cost.
 
