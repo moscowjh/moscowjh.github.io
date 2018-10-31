@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  IoT Health Data Marketing: Spooky or Helpful?
+title:  "IoT Health Data Marketing: Spooky or Helpful?"
 ---
 The *NYT* [ran this article last week](https://www.nytimes.com/2018/10/23/business/media/fever-advertisements-medicine-clorox.html) about a company called Kinsa which produces 'connected' thermometers which connect with a smart phone app and, eventually, with Kinsa's servers. Kinsa is aggregating data by zipcode and providing it to the The Clorox Company, so that the company knows in real time which zipcodes have increases in fevers.  According to the *Times*, Clorox is using that data to target ads for its disinfecting products.
 
