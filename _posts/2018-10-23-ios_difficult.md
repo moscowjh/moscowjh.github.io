@@ -8,7 +8,7 @@ That said, I have been struck while helping my parents with their iPads and obse
 
 Three of my favorite items from the post:
 
-1. iOS' poorly documented, difficult to use and slightly dangerous "undo" action (you have to shake the phone). Undo is badly needed, but I had never heard about this implementation before.
+1. iOS poorly documented, difficult to use and slightly dangerous "undo" action (you have to shake the phone). Undo is badly needed, but I had never heard about this implementation before.
 2. Selecting multiple photos in one action in the Photos app. I still haven't tried this and am mystified why this isn't more obvious or better documented.
 3. The way that the control for adjusting text size is hidden deep within the Accessibility preferences. This is a configuration needed by most people over 40.
 
