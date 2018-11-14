@@ -2,7 +2,7 @@
 layout: post
 title:  "Computer Science Book Club"
 ---
-Since finishing the Udacity data analytics curriculum, I have been exploring a number of ideas for further learning. One of them  is facilitating a [Computer Science Book Club](https://medium.com/@TiltedListener/why-you-should-start-a-computer-science-book-club-baf6c440c0c9). The club has been around for a couple years, but its founder is a little burned out and is relinquish the wheel.
+Since finishing the Udacity data analytics curriculum, I have been exploring a number of ideas for further learning. One of them  is facilitating a [Computer Science Book Club](https://medium.com/@TiltedListener/why-you-should-start-a-computer-science-book-club-baf6c440c0c9). The club has been around for a couple years, but its founder is too busy and perhaps a bit burnt out, so he was ready to close up shop until I stepped forward.
 
 I am certainly not an expert in computer science: not even sure what the term means exactly and how it is a science (perhaps a topic for a future post). To be honest, I would prefer calling the club something like "Topics in Computing."  What I have been thinking is to identify the major themes in technology and to figure out one or more readings in each topic.
 
