@@ -13,4 +13,5 @@ It would be interesting in the near future to do a systematic review of the reac
 I see two things that are undoubtedly true:
 - Amazon is a company with a strong culture, brilliant leadership, and a bias toward building for the long-term.
 - As impressive as it is, Amazon is optimized for customer and shareholder gain (as encouraged by US laws and business culture). It is not looking out for public or community benefit except as those things can be quantified as risks that could block customer and shareholder benefits.
+
 Amazon will need to be guided and (likely) regulated to act in a way that is consistent with the public good.
