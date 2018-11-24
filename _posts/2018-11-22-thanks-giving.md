@@ -5,7 +5,7 @@ title:  "Day of Thanks"
 Today is Thursday, November 22, 2018 - Thanksgiving Day in the US.
 
 I am grateful for many things today (and everyday):
-- My family in all of its glory;
+- My family - all of its many widely-dispersed parts;
 - My other loved ones - friends who are my second family;
 - Health - my own and that of everyone close to me.
 - Nature - the stunning beauty of the Pacific NW awakens appreciation of nature for all who are fortunate enough to live here.
