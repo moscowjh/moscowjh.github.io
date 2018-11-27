@@ -6,4 +6,4 @@ The Trump administration released the [National Climate Assessment](https://nca2
 
 The photo comes from the chapter on the Pacific Northwest and reminds me of the very heavy wildfire smoke that marred the glorious PNW summers each of the past two years. Photo credit: Charles Luce.
 
-![Wildfire Smoke in Cascades](/assets/noaa_smog_charles_luce.png)
+![Wildfire Smoke in Cascades](/assets/noaa_smog_charles_luce.jpg)
