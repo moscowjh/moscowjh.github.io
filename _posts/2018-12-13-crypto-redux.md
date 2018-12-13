@@ -2,7 +2,7 @@
 layout: post
 title:  "The Seamier Side of Crypto Blockchain"
 date:   2018-12-13
-categories: cryptocurrency, blockchain
+categories: cryptocurrency, blockchain, news
 ---
 I [posted not long ago about crypto/blockchain startups](https://moscowjh.github.io/2018/10/22/crypto_blockchain.html) and alluded to my consulting work in that sector. Now, the company I consulted with is in the news - and not in a good way.
 
