@@ -14,4 +14,4 @@ What is most surprising, if the allegations prove to be true, is that the compan
 
 In fact, in online discussion groups, some traders and investors have defended the product prototypes they received. It also seems that some of the individuals who worked there have moved to other companies trying to create similar tools, an endorsement of the basic business thesis. And I can observe from my brief engagement that these ideas and the company's dynamism were powerful enough to have attracted a number of very smart technologists to work there.
 
-If the fraud allegations prove to be true, it really begs the question "why on this project?" It seems to me that the venture had a real chance of success and if it had been successful, would have been worth a lot more than $31 million!
+If the fraud allegations prove to be true, it really begs the question "why on this project?" It seems to me that the venture had a real chance of success and if it had been successful, would have been worth a lot more than $31 million.
