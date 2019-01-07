@@ -8,7 +8,7 @@ We took advantage of free museum night in Seattle (first Thursday of the month) 
 
 Many people are aware that Seattle is the birthplace of Boeing and has played an important role in aviation history. The museum, in many ways, would be more accurately named "the Boeing museum" not because the collection is restricted to its aircraft, but because it is strongest in recording the history of Boeing in Seattle including a reconstruction of its first factory/workshop called "the Red Barn."
 
-One of the standout features of the Museum was the presence of many volunteers who enthusiastically shared information about their favorite parts of the collection. One gentlemen pointed out a display about Boeing's very first engineer, Wong Tsu, a Chinese citizen who on what was essentially an internship after studying at MIT, designed a very  early training aircraft for a Navy contract.
+One of the standout features of the Museum was the presence of many volunteers who enthusiastically shared information about their favorite parts of the collection. One gentlemen pointed out a display about Boeing's very first engineer, [Wong Tsu](https://en.wikipedia.org/wiki/Wong_Tsu), a Chinese citizen who on what was essentially an internship after studying at MIT, designed a very  early training aircraft for a Navy contract.
 
 ![Wong Tsu plaque at Seattle Museum of Flight](/assets/wong-tsu.jpg)
 
