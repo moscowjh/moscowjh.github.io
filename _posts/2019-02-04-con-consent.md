@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekend Reading: NYT Editorial 'How Silicon Valley Puts the 'Con' in Consent'"
+title:  "Weekend Reading: NYT Editorial re Digital Privacy Policies"
 date:   2019-02-04
 categories: privacy, data
 ---
