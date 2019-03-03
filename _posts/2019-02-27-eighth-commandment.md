@@ -2,6 +2,7 @@
 layout: post
 title:  "Thou Shalt Not Bear False Witness"
 date:   2019-02-27
+published:  false 
 categories: meditation
 ---
 "Thou shalt not bear false witness against thy neighbor" is one of the ten commandments. I am not religious so I do not often spend time reflecting on scriptures or commandments. Recently, someone very close to me was arrested and imprisoned briefly on account of false testimony made by her sister to the local police department.
