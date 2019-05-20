@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Burgers and Fries"
-date:   2019-05-06
+date:   2019-05-08
 categories: seattle, food
 ---
 What fun is having a personal blog if you can't occasionally be frivolous!?
