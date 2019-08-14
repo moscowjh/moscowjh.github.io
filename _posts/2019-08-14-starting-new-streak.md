@@ -8,4 +8,10 @@ Recently Fred Wilson posted about the beneficial effect of "streaks" on business
 
 About a year ago, I committed to a "30-day" blogging challenge which really helped me to kickstart this activity. For a while afterwards, I maintained a 4x/week blogging schedule I set for myself. Early in 2019, I became inconsistent (for good reasons - my father fell ill and died) and I missed the month of July all together. This year I'm going to give myself a new goal which will be to blog five days per week until the end of 2019. Good thing that during the blog's "downtime" I have stockpiled a number of topics which should help me stay on schedule for a couple weeks.
 
-Away we go!
+This is a personal blog, so the topics here will be diverse. I will continue to focus on themes that are important to me:
+- Data, Privacy, Technology and Public Policy
+- My own journey to learn and use data science
+- Exploring the Pacific Northwest, which still feels new to me even after two years
+- Reactions to my own reading and viewing.
+
+Let's take this old vehicle out for a spin!
