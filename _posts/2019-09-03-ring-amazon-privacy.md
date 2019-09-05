@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ring, Amazon and Neighborhood Surveillance"
-date:   2019-08-23
+date:   2019-09-03
 categories: data, privacy
 ---
 Pushing my shopping cart through CostCo last week, the large number of doorbell and household security cameras made an impression. These devices have been around for a while, but the technology has become less expensive and internet connectivity has made it easier to access footage shot by the cameras. I reflexively started to ask myself whether such a purchase would make sense to me and very quickly decided, "no."

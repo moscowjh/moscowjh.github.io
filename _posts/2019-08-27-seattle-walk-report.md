@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seattle Walk Report"
-date:   2019-08-26
+date:   2019-08-27
 categories: seattle, pnw
 published: true
 
