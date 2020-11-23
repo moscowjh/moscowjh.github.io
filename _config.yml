@@ -25,6 +25,8 @@ github_username:  moscowjh
 # Build settings
 markdown: kramdown
 theme: minima
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
 # theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
