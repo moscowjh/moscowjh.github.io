@@ -24,8 +24,8 @@ github_username:  moscowjh
 
 # Build settings
 markdown: kramdown
-remote_theme: poole/poole
-# theme: minima
+# remote_theme: poole/poole
+theme: minima
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-slate
